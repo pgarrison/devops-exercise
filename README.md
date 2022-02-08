@@ -27,6 +27,7 @@ This exercise provides a "thing" REST API.
 ## Testing
 
 - Run `python tests.py`
+- Or, to test in a Dockerized setting, run `docker-compose -f docker-compose-test.yml up`
 
 ## Credits
 
