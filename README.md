@@ -21,7 +21,8 @@ This exercise provides a "thing" REST API.
 
 ## Deployment
 
-TODO
+- Install [docker](https://docs.docker.com/get-docker/) with [docker-compose](https://docs.docker.com/compose/install/)
+- Deploy with `docker-compose up`
 
 ## Testing
 
